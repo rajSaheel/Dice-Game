@@ -6,6 +6,10 @@
 }
 
 .body{
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
     background-color: #434343;
 }
 
@@ -13,7 +17,6 @@
     padding:0 20px;
     border: solid;
     border-color: #DCB33F;
-    height: 760px;
     background-image: url("background.JFIF");
     background-repeat:no-repeat;
     -webkit-background-size:cover;
